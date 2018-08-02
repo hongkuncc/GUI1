@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#py3是pillow
 from PIL import Image as Img
 from tkinter import *
 from tkinter.filedialog import *
